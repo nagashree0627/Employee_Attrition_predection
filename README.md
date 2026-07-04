@@ -25,7 +25,7 @@ The objective is to help HR teams identify employees who may be at risk of leavi
 
 - Source: https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
 - Records: **1,470**
-- Features: **35**
+- Features: **14**
 
 The target variable is:
 
